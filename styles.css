@@ -23,3 +23,19 @@ p {
   display: inline-block;
   width: 49%;
 }
+
+@media screen and (max-width: 700px) {
+  body {
+    margin: 12px;
+  }
+
+  h1 {
+    font-size: 52px;
+    margin: 64px 0 32px 0;
+  }
+
+  .screenshot-container img {
+    margin: 16px 0;
+    width: 100%;
+  }
+}
