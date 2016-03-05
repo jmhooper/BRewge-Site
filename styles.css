@@ -1,0 +1,25 @@
+* {
+  font-family: Helvetica, sans-serif;
+  color: white;
+}
+
+body {
+  background-color: black;
+  margin: 128px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 66px;
+  margin: 0 0 64px 0;
+}
+
+p {
+  font-size: 24px;
+  margin: 36px 0;
+}
+
+.screenshot-container img {
+  display: inline-block;
+  width: 49%;
+}
